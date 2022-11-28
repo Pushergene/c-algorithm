@@ -6,8 +6,6 @@ void fun2(int n) {
     }
 }
 
-
-
 void fun(int n) {
 	if (n > 0) {
 		printf("%d" , n);
